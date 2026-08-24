@@ -57,21 +57,6 @@ Hichii.github.io/
 
 ---
 
-## 🛠️ Desarrollo local
-
-Si quieres ejecutar la página en local para pruebas:
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/Hichii/Hichii.github.io.git
-
-# Navegar al directorio
-cd Hichii.github.io
-
-# Abrir el archivo en tu navegador
-# Opción 1: Doble clic en index.html
-# Opción 2: Usar Live Server en VS Code (recomendado)
-
 📊 SEO y visibilidad
 La página está optimizada para aparecer en búsquedas de:
 
